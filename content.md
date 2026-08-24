@@ -9,7 +9,7 @@ the site. Still open: campaign email address, phone number, and FPPC I.D.
 number — placeholders marked `[ ]` below.
 
 Photos in use (see `assets/`):
-- `pat-hero.jpg` — vertical harbor portrait, used in the Home hero
+- `pat-hero.jpg` — podium/speaking photo, used in the Home hero
 - `pat-about.jpg` — official flag portrait, used on the About page
 
 ---
@@ -20,8 +20,8 @@ Photos in use (see `assets/`):
 
 **Headline:** Patricia "Pat" Bates
 
-**Subhead:** Water Policy Advisor. Three decades of proven Orange County leadership —
-now focused on safe, reliable water at a price every family can afford.
+**Subhead:** Water Policy Advisor. Three decades of proven Orange County leadership.
+Now, she's fighting to keep our water safe, reliable, and affordable.
 
 **CTA buttons:** Learn About Pat · Get Involved
 
@@ -92,20 +92,15 @@ priorities focused on the things that matter most to ratepayers.
 
 **Priority cards:**
 
-**Water Quality & Safety**
-As your Moulton Niguel Water District director, water quality and safety will
-always be Pat's first priority — every decision starts there.
+**Built Our Community**
+Pat helped incorporate Laguna Niguel and served as its first mayor, then
+represented every Moulton Niguel community as a Supervisor, Assemblywoman and
+State Senator.
 
-**Reliable Infrastructure**
-Investing in the pipes, pumps, and reservoirs that keep water flowing through
-drought and emergencies, at the lowest responsible cost to ratepayers.
+**Safe & Affordable Water**
+Water quality and safety will always be Pat's first priority. Pat is trusted by
+the Howard Jarvis Taxpayers Association to always defend Propositions 13 & 218.
 
-**Fiscal Accountability**
-A taxfighter's record you can trust: a full public accounting of how ratepayer
-money is spent, and a commitment to defending your right to challenge unfair rate
-increases under Proposition 218.
-
-**Affordability for Every Household**
-Whether you're a renter or homeowner, a young family or a retiree, everyone needs
-safe, reliable water at a price they can afford — that's the standard Pat will hold
-the district to.
+**Investing in Reliable Infrastructure**
+Pat will invest in the pipes, pumps and reservoirs that keep water flowing
+through drought and emergencies, at the lowest responsible cost.

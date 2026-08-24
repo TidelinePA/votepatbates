@@ -315,6 +315,7 @@ section { padding: 110px 0 90px; }
   grid-template-columns: repeat(2, 1fr);
   gap: 24px;
 }
+.priority-grid-3 { grid-template-columns: repeat(3, 1fr); }
 .priority-card {
   background: var(--white);
   border-radius: var(--radius);
