@@ -33,6 +33,36 @@ Now, she's fighting to keep our water safe, reliable, and affordable.
 
 ---
 
+## PRIORITIES
+
+Page order on the live site: Home → Priorities → About → Contact (Priorities
+was moved up from its original position after Built Our Community was added,
+since it now covers ground the old stat bar duplicated).
+
+**Kicker:** PRIORITIES
+
+**Headline:** Proven Leadership for Moulton Niguel's Water Future
+
+**Subhead:** The values guiding Pat's approach to the MNWD board — practical
+priorities focused on the things that matter most to ratepayers.
+
+**Priority cards:**
+
+**Built Our Community**
+Pat helped incorporate Laguna Niguel and served as its first mayor, then
+represented every Moulton Niguel community as a Supervisor, Assemblywoman and
+State Senator.
+
+**Safe & Affordable Water**
+Water quality and safety will always be Pat's first priority. Pat is trusted by
+the Howard Jarvis Taxpayers Association to always defend Propositions 13 & 218.
+
+**Investing in Reliable Infrastructure**
+Pat will invest in the pipes, pumps and reservoirs that keep water flowing
+through drought and emergencies, at the lowest responsible cost.
+
+---
+
 ## ABOUT
 
 **Kicker:** ABOUT PAT
@@ -78,29 +108,3 @@ ratepayers.
 - First Mayor, City of Laguna Niguel (1989); City Council (1989–1999)
 - Director, Howard Jarvis Taxpayers Association
 - President, Laguna Niguel Historical Society
-
----
-
-## PRIORITIES
-
-**Kicker:** PRIORITIES
-
-**Headline:** Proven Leadership for Moulton Niguel's Water Future
-
-**Subhead:** The values guiding Pat's approach to the MNWD board — practical
-priorities focused on the things that matter most to ratepayers.
-
-**Priority cards:**
-
-**Built Our Community**
-Pat helped incorporate Laguna Niguel and served as its first mayor, then
-represented every Moulton Niguel community as a Supervisor, Assemblywoman and
-State Senator.
-
-**Safe & Affordable Water**
-Water quality and safety will always be Pat's first priority. Pat is trusted by
-the Howard Jarvis Taxpayers Association to always defend Propositions 13 & 218.
-
-**Investing in Reliable Infrastructure**
-Pat will invest in the pipes, pumps and reservoirs that keep water flowing
-through drought and emergencies, at the lowest responsible cost.
