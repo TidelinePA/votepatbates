@@ -5,8 +5,8 @@ Source: ballot statement PDF ("Bates for MNWD/Pat_Bates.pdf") + public bio resea
 
 This is the first version of **votepatbates.com**. MNWD directors are elected
 at-large (no divisions), so no seat/division number is referenced anywhere on
-the site. Still open: campaign email address, phone number, and FPPC I.D.
-number — placeholders marked `[ ]` below.
+the site. Contact email is live: info@votepatbates.com. Still open: campaign
+phone number and FPPC I.D. number — placeholders marked `[ ]` below.
 
 Photos in use (see `assets/`):
 - `pat-hero.jpg` — podium/speaking photo, used in the Home hero
