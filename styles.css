@@ -354,7 +354,8 @@ section { padding: 110px 0 90px; }
 /* Contact */
 .contact-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: minmax(280px, 420px);
+  justify-content: center;
   gap: 24px;
 }
 .contact-card {
@@ -433,7 +434,6 @@ footer a:hover { color: var(--white); }
   .about-photo { position: static; max-width: 320px; margin: 0 auto; }
   .credentials { grid-template-columns: 1fr; }
   .priority-grid { grid-template-columns: 1fr; }
-  .contact-grid { grid-template-columns: 1fr; }
   .footer-grid { grid-template-columns: 1fr; }
   section { padding: 76px 0 60px; }
   .section-head h2 { font-size: 30px; }
